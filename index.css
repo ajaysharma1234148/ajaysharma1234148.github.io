@@ -1,8 +1,6 @@
 .logo {
-  width: 20%;
-  height: 20%;
   display: block;
-  margin-top: 10%;
+  width: 20vw;
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
@@ -13,8 +11,6 @@ body {
   align-items: center;
   text-align: center;
   font-family: "Courier New", Courier, monospace;
-  background-color: #3a3a3a;
-  color: white;
   text-transform: capitalize;
 }
 
@@ -23,8 +19,8 @@ body {
 }
 
 .email-p a {
-  background-color: white;
-  color: black;
+  background-color: #86a6a0;
+  color: white;
   text-decoration: none;
   padding: 5px;
 }
